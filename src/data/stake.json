@@ -28,5 +28,36 @@
         "image": "https://furidngrt.app/img/rebus.png",
         "title": "Rebus",
         "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/gitopia.png",
+        "title": "Gitopia",
+        "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/humans.png",
+        "title": "Humans",
+        "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/kujira.png",
+        "title": "Kujira",
+        "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/umee.png",
+        "title": "Umee",
+        "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/sei.png",
+        "title": "Sei",
+        "link": "#"
+    },
+    {
+        "image": "https://furidngrt.app/img/nolus.png",
+        "title": "Nolus",
+        "link": "#"
     }
+    
 ]
