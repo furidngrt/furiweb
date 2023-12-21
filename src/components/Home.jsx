@@ -34,10 +34,10 @@ const Home = () => {
                 <div className="mb-8 relative">
                     <div className="mb-5">
                         <div className="relative flex">
-                            <h1 className="absolute top-[3px] left-[3px] font-poppins md:text-8xl text-5xl font-bold text-white tracking-tight text-left mb-2 whitespace-nowrap">FURI DININGRAT</h1>
-                            <h1 className="font-poppins md:text-8xl text-5xl font-bold text-purple tracking-tight text-left mb-2 whitespace-nowrap">FURI DININGRAT</h1>
+                            <h1 className="absolute top-[3px] left-[3px] font-poppins md:text-8xl text-5xl font-bold text-white tracking-tight text-left mb-2 whitespace-nowrap">FURI</h1>
+                            <h1 className="font-poppins md:text-8xl text-5xl font-bold text-purple tracking-tight text-left mb-2 whitespace-nowrap">FURI</h1>
                         </div>
-                        <p className="font-semibold text-2xl tracking-widest my-10">Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, iure!</p>
+                        <p className="font-semibold text-2xl tracking-widest my-10">Grow your passive income Elevate your earnings effortlessly by securely staking your funds with professional POS validator. </p>
                     </div>
 
                     <div className="flex md:justify-start justify-center gap-5 mb-2">
@@ -53,9 +53,9 @@ const Home = () => {
                         <p className="text-lg">A blockchain development firm, lab, and validator, that builds software to supercharge the growth and security of the Interchain.</p>
                     </div>
                     <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-5">
-                        <ExpertiseCard image={svg1} title="FURI LAB 1" text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, perferendis?" />
-                        <ExpertiseCard image={svg2} title="FURI LAB 2" text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, perferendis?" />
-                        <ExpertiseCard image={svg3} title="FURI LAB 3" text="Lorem ipsum dolor sit amet consectetur adipisicing elit. Ut, perferendis?" />
+                        <ExpertiseCard image={svg1} title="FURI" text="Actively building alongside the companies and technologies we invest in." />
+                        <ExpertiseCard image={svg2} title="Validation Services" text="Providing stable and secure validation for the technologies we partner with." />
+                        <ExpertiseCard image={svg3} title="IBC Development" text="Building open source IBC apps & middlewares. Pushing IBC adoption beyond the Cosmos." />
                     </div>
                 </div>
                 <div id="blog" className="mb-24 text-white">
