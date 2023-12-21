@@ -92,9 +92,9 @@ const Navbar = ({ scroll }) => {
                 <div className="absolute bottom-0 bg-dark2 w-full p-3 text-white text-center">
 
                     <div className="flex justify-center gap-2 mb-2">
-                        <FontAwesomeIcon icon={faPaperPlane} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" />
-                        <FontAwesomeIcon icon={faTwitter} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" />
-                        <FontAwesomeIcon icon={faDiscord} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" />
+                        <a href="https://t.me/furidngrt"><FontAwesomeIcon icon={faPaperPlane} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" /></a>
+                        <a href="https://x.com/furidngrt"><FontAwesomeIcon icon={faTwitter} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" /></a>
+                        <a href="https://#"><FontAwesomeIcon icon={faDiscord} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" /></a>
                     </div>
                     <span className="text-sm">© 2024 FURI</span>
                 </div>
