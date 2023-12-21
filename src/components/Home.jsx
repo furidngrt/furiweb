@@ -75,7 +75,7 @@ const Home = () => {
                 </div>
                 <div id="stake" className="mb-24 text-white relative">
                     <img src={header3Png} alt="" className="absolute opacity-30 left-[-60px] h-50 w-80 ml-auto" />
-                    <h3 className="text-center md:text-5xl text-3xl font-semibold mb-14">Stake</h3>
+                    <h3 className="text-center md:text-5xl text-3xl font-semibold mb-14">Stake With Us</h3>
                     <div className="grid lg:grid-cols-6 md:grid-cols-4 sm:grid-cols-3 grid-cols-2 gap-5">
                         {stakeData.map((row, index) => {
                             return (
