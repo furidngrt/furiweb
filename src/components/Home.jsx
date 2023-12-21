@@ -41,9 +41,9 @@ const Home = () => {
                     </div>
 
                     <div className="flex md:justify-start justify-center gap-5 mb-2">
-                        <FontAwesomeIcon icon={faPaperPlane} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" />
-                        <FontAwesomeIcon icon={faTwitter} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" />
-                        <FontAwesomeIcon icon={faDiscord} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" />
+                        <a href="https://t.me/furidngrt"><FontAwesomeIcon icon={faPaperPlane} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" /></a>
+                        <a href="https://x.com/furidngrt"><FontAwesomeIcon icon={faTwitter} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" /></a>
+                        <a href="https://#"><FontAwesomeIcon icon={faDiscord} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white lg:text-3xl md:text-2xl text-lg rounded-full border lg:p-[12px] md:p-[10px] p-[8px]" /></a>
                     </div>
                 </div>
                 <div className="mt-24 mb-24 text-white relative">
