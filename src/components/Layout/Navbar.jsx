@@ -15,7 +15,7 @@ const Navbar = ({ scroll }) => {
                         <Link
                             to="/"
                         >
-                            <h6 className={"my-auto lg:text-2xl text-xl font-semibold font-poppi rounded-full px-5 py-1 tracking-tight cursor-pointer " + (scroll > 124 ? 'text-purple' : 'text-white')}>FURI DININGRAT</h6>
+                            <h6 className={"my-auto lg:text-2xl text-xl font-semibold font-poppi rounded-full px-5 py-1 tracking-tight cursor-pointer " + (scroll > 124 ? 'text-purple' : 'text-white')}>FURI</h6>
                         </Link>
                         <div className="hidden lg:flex gap-6 px-2">
                             <ul className="flex gap-4 my-auto text-sm font-semibold">
