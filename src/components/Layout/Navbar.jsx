@@ -37,7 +37,7 @@ const Navbar = ({ scroll }) => {
                                         Stake
                                     </li>
                                 </ScrollLink>
-                                <Link to="/job">
+                                <Link to="/#">
                                     <li className="transition-all duration-300 cursor-pointer hover:text-purple px-2">Jobs</li>
                                 </Link>
                             </ul>
@@ -96,7 +96,7 @@ const Navbar = ({ scroll }) => {
                         <FontAwesomeIcon icon={faTwitter} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" />
                         <FontAwesomeIcon icon={faDiscord} className="transition-all duration-300 cursor-pointer bg-white text-dark hover:bg-dark hover:text-white text-sm rounded-full p-[5px]" />
                     </div>
-                    <span className="text-sm">© 2023 Furi Diningrat</span>
+                    <span className="text-sm">© 2024 FURI</span>
                 </div>
             </div >
 
