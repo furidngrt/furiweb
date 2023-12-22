@@ -37,7 +37,7 @@ const Home = () => {
                             <h1 className="absolute top-[3px] left-[3px] font-poppins md:text-8xl text-5xl font-bold text-white tracking-tight text-left mb-2 whitespace-nowrap">FURI</h1>
                             <h1 className="font-poppins md:text-8xl text-5xl font-bold text-purple tracking-tight text-left mb-2 whitespace-nowrap">FURI</h1>
                         </div>
-                        <p className="font-semibold text-2xl tracking-widest my-10">Grow your passive income Elevate your earnings effortlessly by securely staking your funds with professional POS validator. </p>
+                        <p className="font-semibold text-2xl tracking-widest my-10">Grow your passive income your earnings effortlessly by securely staking your funds with professional POS validator. </p>
                     </div>
 
                     <div className="flex md:justify-start justify-center gap-5 mb-2">
